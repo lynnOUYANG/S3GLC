@@ -1,4 +1,4 @@
-# S3GLC: Spectral Subspace Graph Learning for Clustering
+# S3GLC
 
 ## Overview
 
